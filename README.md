@@ -1,11 +1,9 @@
 # Chat application with React.js, Node.js & Socket.io
 
-Video: https://www.youtube.com/watch?v=a_xo-SbIfUQ
-
 ## What are we building?
-A chat application with rooms
+A chat application with rooms using React.js, Node.js & Socket.io
 
-## What technologies are we using?
+## What technologies are used?
 ### Node.js
 - Socket.io
 - ExpressJS
@@ -36,13 +34,6 @@ A chat application with rooms
 
 [Socket.io Emit cheatsheet](https://socket.io/docs/v3/emit-cheatsheet/index.html)
 
-## Support
-[Buy me a Coffee](https://www.buymeacoffee.com/tomn)
-
-[Sign up to DigitalOcean](https://m.do.co/c/1b74cb8c56f4) I 💖 DigitalOcean
-
-[Subscribe on YouTube](https://www.youtube.com/channel/UClEEzwG7Tl3-8eY11Qytsog)
-
 ## Screenshots
 ### Home screen
 ![](./screenshots/1.png)
@@ -51,16 +42,3 @@ A chat application with rooms
 ### In chat
 ![](./screenshots/3.png)
 
-
-## Let's keep in touch
-- [Subscribe on YouTube](https://www.youtube.com/TomDoesTech)
-- [Discord](https://discord.gg/4ae2Esm6P7)
-- [Twitter](https://twitter.com/tomdoes_tech)
-- [TikTok](https://www.tiktok.com/@tomdoestech)
-- [Facebook](https://www.facebook.com/tomdoestech)
-- [Instagram](https://www.instagram.com/tomdoestech)
-
-[Buy me a Coffee](https://www.buymeacoffee.com/tomn)
-
-[Sign up to DigitalOcean 💖](https://m.do.co/c/1b74cb8c56f4)
-# Chat-App
