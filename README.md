@@ -30,11 +30,3 @@ A chat application with rooms using React.js, Node.js & Socket.io
 
 [Socket.io Emit cheatsheet](https://socket.io/docs/v3/emit-cheatsheet/index.html)
 
-## Screenshots
-### Home screen
-![](./screenshots/1.png)
-### No rooms
-![](./screenshots/2.png)
-### In chat
-![](./screenshots/3.png)
-
