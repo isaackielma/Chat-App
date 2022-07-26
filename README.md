@@ -17,10 +17,6 @@ A chat application with rooms using React.js, Node.js & Socket.io
 - TypeScript
 - [CSS Modules](https://nextjs.org/docs/basic-features/built-in-css-support#adding-component-level-css)
 
-## What will you learn?
-- How sockets work on the server and the client
-- How to setup socket.io-client correctly in React
-- How to organize code for maintainability
 
 ## Structure
 1. Bootstrap backend
